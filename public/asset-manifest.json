@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6705d58d.css",
-    "main.js": "/static/js/main.3190d27d.js",
+    "main.js": "/static/js/main.8b95b94c.js",
     "static/media/home-main.webp": "/static/media/home-main.ab20e24ee5804bd70247.webp",
     "static/media/http___cdn.cnn.com_cnnnext_dam_assets_181010131059-australia-best-beaches-cossies-beach-cocos3.jpg": "/static/media/http___cdn.cnn.com_cnnnext_dam_assets_181010131059-australia-best-beaches-cossies-beach-cocos3.05d1bd309e4348670e86.jpg",
     "static/media/brown-regular.otf": "/static/media/brown-regular.6e6b7bdfc54562a5073d.otf",
@@ -16,10 +16,10 @@
     "static/media/hand.svg": "/static/media/hand.7db2c8da4bde0d31c4d8a7d2e2782c53.svg",
     "index.html": "/index.html",
     "main.6705d58d.css.map": "/static/css/main.6705d58d.css.map",
-    "main.3190d27d.js.map": "/static/js/main.3190d27d.js.map"
+    "main.8b95b94c.js.map": "/static/js/main.8b95b94c.js.map"
   },
   "entrypoints": [
     "static/css/main.6705d58d.css",
-    "static/js/main.3190d27d.js"
+    "static/js/main.8b95b94c.js"
   ]
 }

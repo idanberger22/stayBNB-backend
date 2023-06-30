@@ -2,13 +2,13 @@ const express = require('express')
 const cors = require('cors')
 const path = require('path')
 const cookieParser = require('cookie-parser')
-
 const app = express()
 const http = require('http').createServer(app)
-
-
 app.use(cookieParser())
 app.use(express.json())
+
+
+
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.resolve(__dirname, 'public')))
 } else {
